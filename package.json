@@ -1,0 +1,25 @@
+{
+  "name": "ahmadpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"parcel build source/index.html --dist-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mehmood-Aftab123/ahmadpractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mehmood-Aftab123/ahmadpractice/issues"
+  },
+  "homepage": "https://github.com/Mehmood-Aftab123/ahmadpractice#readme",
+  "dependencies": {
+    "parcel": "^2.16.4"
+  }
+}
